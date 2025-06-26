@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for our project "LLM-Assisted Application Evaluation at TUM". This project develops an intelligent assistant system for automating the evaluation of student applications for the master’s program at the Technical University of Munich (TUM). The system utilizes Large Language Models (LLMs) to analyze application documents (e.g., CVs, transcripts, motivation letters, essays) and generate structured recommendations that assist the selection committee in data-driven decision-making.
 
 ## Team Members
-- **Al Montasir Ji**
+- **Md Alif Al Montasir Jim**
 - **Hristo Andreev**
 - **Pengwen Chen**
 - **Shubh Porwal**
